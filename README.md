@@ -1,6 +1,6 @@
 ### Hi there! I'm Mitali Dogra 👋
 
-> Aspiring Data Scientist | ML Enthusiast | Problem Solver
+> Aspiring Data Scientist | Problem Solver
 
 ![Banner](https://user-images.githubusercontent.com/00000000/00000000-banner.gif)  
 
